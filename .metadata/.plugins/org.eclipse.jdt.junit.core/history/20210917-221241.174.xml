@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="LocacaoServiceTest.req_teste" project="Locadora_Jogos" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testcase name="req_teste" classname="qts.locadora.LocacaoServiceTest" time="0.047"/>
+</testrun>
